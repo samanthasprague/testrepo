@@ -1,0 +1,1 @@
+This is the 3rd assignment for MSDS6306. I want to give credit to fivethirtyeight for their datasets and helpful readme files. You can find instructions on how to reach them via the markdown file in this folder, or navigate to the data folder.
